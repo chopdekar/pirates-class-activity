@@ -1,1 +1,1 @@
-# pirates-class-activity
+# C23 sol
